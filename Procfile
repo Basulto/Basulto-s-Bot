@@ -1,1 +1,1 @@
-worker: node bot.js Basulto's Bot
+worker: node bot.js 
